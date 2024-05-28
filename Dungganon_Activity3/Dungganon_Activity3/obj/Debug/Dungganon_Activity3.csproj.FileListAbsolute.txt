@@ -1,0 +1,15 @@
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity3\Dungganon_Activity3\bin\Debug\Dungganon_Activity3.exe.config
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity3\Dungganon_Activity3\bin\Debug\Dungganon_Activity3.exe
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity3\Dungganon_Activity3\bin\Debug\Dungganon_Activity3.pdb
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity3\Dungganon_Activity3\obj\Debug\Dungganon_Activity3.csproj.AssemblyReference.cache
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity3\Dungganon_Activity3\obj\Debug\Dungganon_Activity3.csproj.SuggestedBindingRedirects.cache
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity3\Dungganon_Activity3\obj\Debug\Dungganon_Activity3.csproj.CoreCompileInputs.cache
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity3\Dungganon_Activity3\obj\Debug\Dungganon_Activity3.exe
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity3\Dungganon_Activity3\obj\Debug\Dungganon_Activity3.pdb
+C:\Users\PC\Desktop\SoftDev\Dungganon_Activity3\Dungganon_Activity3\Dungganon_Activity3\bin\Debug\Dungganon_Activity3.exe.config
+C:\Users\PC\Desktop\SoftDev\Dungganon_Activity3\Dungganon_Activity3\Dungganon_Activity3\bin\Debug\Dungganon_Activity3.exe
+C:\Users\PC\Desktop\SoftDev\Dungganon_Activity3\Dungganon_Activity3\Dungganon_Activity3\bin\Debug\Dungganon_Activity3.pdb
+C:\Users\PC\Desktop\SoftDev\Dungganon_Activity3\Dungganon_Activity3\Dungganon_Activity3\obj\Debug\Dungganon_Activity3.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\SoftDev\Dungganon_Activity3\Dungganon_Activity3\Dungganon_Activity3\obj\Debug\Dungganon_Activity3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftDev\Dungganon_Activity3\Dungganon_Activity3\Dungganon_Activity3\obj\Debug\Dungganon_Activity3.exe
+C:\Users\PC\Desktop\SoftDev\Dungganon_Activity3\Dungganon_Activity3\Dungganon_Activity3\obj\Debug\Dungganon_Activity3.pdb
