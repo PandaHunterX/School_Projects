@@ -1,0 +1,8 @@
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity#2\Dungganon_Activity#2\bin\Debug\Dungganon_Activity#2.exe.config
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity#2\Dungganon_Activity#2\bin\Debug\Dungganon_Activity#2.exe
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity#2\Dungganon_Activity#2\bin\Debug\Dungganon_Activity#2.pdb
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity#2\Dungganon_Activity#2\obj\Debug\Dungganon_Activity#2.csproj.AssemblyReference.cache
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity#2\Dungganon_Activity#2\obj\Debug\Dungganon_Activity#2.csproj.SuggestedBindingRedirects.cache
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity#2\Dungganon_Activity#2\obj\Debug\Dungganon_Activity#2.csproj.CoreCompileInputs.cache
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity#2\Dungganon_Activity#2\obj\Debug\Dungganon_Activity#2.exe
+C:\Users\CCS\Documents\Dungganon\Dungganon_Activity#2\Dungganon_Activity#2\obj\Debug\Dungganon_Activity#2.pdb
