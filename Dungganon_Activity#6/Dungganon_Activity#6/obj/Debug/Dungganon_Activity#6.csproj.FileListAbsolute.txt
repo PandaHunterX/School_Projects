@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Dungganon_Activity#6\Dungganon_Activity#6\bin\Debug\Dungganon_Activity#6.exe.config
+C:\Users\PC\source\repos\Dungganon_Activity#6\Dungganon_Activity#6\bin\Debug\Dungganon_Activity#6.exe
+C:\Users\PC\source\repos\Dungganon_Activity#6\Dungganon_Activity#6\bin\Debug\Dungganon_Activity#6.pdb
+C:\Users\PC\source\repos\Dungganon_Activity#6\Dungganon_Activity#6\obj\Debug\Dungganon_Activity#6.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Dungganon_Activity#6\Dungganon_Activity#6\obj\Debug\Dungganon_Activity#6.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Dungganon_Activity#6\Dungganon_Activity#6\obj\Debug\Dungganon_Activity#6.exe
+C:\Users\PC\source\repos\Dungganon_Activity#6\Dungganon_Activity#6\obj\Debug\Dungganon_Activity#6.pdb
